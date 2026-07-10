@@ -150,3 +150,4 @@ After delivering the blueprint, offer three follow-up options without being verb
 3. **Export** — produce the blueprint as a formatted Word document
 
 Wait for the instructor's choice.
+
